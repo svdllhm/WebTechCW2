@@ -38,3 +38,5 @@ The Event Management App is a full-stack web application designed to simplify th
 1. Navigate to the application URL in your web browser.
 
 2. Create new events, view existing events, update event details, or delete events as needed.
+## Demo
+https://webtechcw2.onrender.com/
