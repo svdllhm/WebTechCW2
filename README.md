@@ -28,10 +28,10 @@ The Event Management App is a full-stack web application designed to simplify th
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/event-management-app.git`
-2. Install dependencies: `npm install`
-3. Configure environment variables if required.
-4. Start the server: `npm start`
+
+1. Install dependencies: `npm install`
+2. Configure environment variables if required.
+3. Start the server: `npm start`
 
 ## Usage
 
